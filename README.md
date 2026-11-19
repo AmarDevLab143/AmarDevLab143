@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 ### WordPress Developer | Aspiring Full-Stack Developer
 
+## About Me
+
+Experienced WordPress and Web Development Professional with hands-on experience in Elementor page building, HTML/CSS, static websites, website maintenance, job portal management, newsletter preparation, email communication, image creation, and Microsoft Excel.
+
+Currently expanding technical expertise in Full-Stack Development and AI-assisted automation solutions.
+
 💻 11+ Years of Experience with WordPress
 🎨 Elementor, HTML & CSS
 🚀 Currently Learning JavaScript, React, Node.js & Databases
