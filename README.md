@@ -56,7 +56,7 @@ Currently expanding technical expertise in Full-Stack Development and AI-assiste
 - **Technologies:** WordPress, Elementor, HTML, CSS
 - Designed and developed a responsive film portfolio website with media uploads, project entries, custom layouts, and content management.
 
-### ### 6. Innovation Economy Partners — Website Customization & Management
+### 6. Innovation Economy Partners — Website Customization & Management
 
 - **Website:** https://innovationeconomypartners.com/
 - **Skills:** HTML, CSS, Website Customization, Content Management, Responsive Design
