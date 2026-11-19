@@ -23,10 +23,10 @@ Experienced WordPress and Web Development Professional with hands-on experience 
 
 Currently expanding technical expertise in Full-Stack Development and AI-assisted automation solutions.
 
-💻 11+ Years of Experience with WordPress
-🎨 Elementor, HTML & CSS
-🚀 Currently Learning JavaScript, React, Node.js & Databases
-🤖 Interested in AI Automation & Web Applications
+- 💻 11+ Years of Experience with WordPress
+- 🎨 Elementor, HTML & CSS
+- 🚀 Currently Learning JavaScript, React, Node.js & Databases
+- 🤖 Interested in AI Automation & Web Applications
 
 ## 🛠️ Tech Stack
 - WordPress & Elementor
