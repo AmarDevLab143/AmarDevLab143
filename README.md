@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Amar Malvia 👋
 
 <!--
 **AmarDevLab143/AmarDevLab143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi, I'm Amar Malvia 👋
+
 WordPress & Elementor Developer | Aspiring Full-Stack Developer
 I have 11 years of experience working with WordPress websites, page design, and Elementor. I'm expanding my skills in modern web development and building practical projects along the way.
 🛠 Skills & Tools
