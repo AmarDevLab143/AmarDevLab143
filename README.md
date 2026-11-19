@@ -15,31 +15,29 @@ Here are some ideas to get you started:
 
 # Hi, I'm Amar Malvia 👋
 
-### WordPress & Elementor Developer | Aspiring Full-Stack Developer
+### WordPress Developer | Aspiring Full-Stack Developer
 
-I have 11 years of experience working with WordPress websites, page design, and Elementor. I'm expanding my skills in modern web development and building practical projects along the way.
+💻 11+ Years of Experience with WordPress
+🎨 Elementor, HTML & CSS
+🚀 Currently Learning JavaScript, React, Node.js & Databases
+🤖 Interested in AI Automation & Web Applications
 
-## 🛠 Skills & Tools
-- **Web:** HTML, CSS, WordPress, Elementor
-- **Currently learning:** JavaScript, Git & GitHub, React, Node.js, databases
-- **Tools:** VS Code, GitHub
+## 🛠️ Tech Stack
+- WordPress & Elementor
+- HTML5 & CSS3
+- JavaScript (Learning)
+- React & Node.js (Learning)
+- Git & GitHub (Learning)
 
-## 🚀 What I'm Building
-- **Full-Stack Learning Tracker** — daily lessons, coding practice, and a 90-day roadmap
-- **AI Automation CMS** — a future dashboard to manage multiple websites and workflows
-- **Educational Tech Library** — technology learning resources and guides
-- **Jobs Portal** — job listings and search experiences
-- **Devotional Places Portal** — guides to spiritual destinations across India
+## 🚀 My Goals
+- Become a Professional Full-Stack Developer
+- Build Real-World Web Applications
+- Develop AI-Powered Automation Tools
+- Contribute to Open-Source Projects
 
-> Some projects are planned or in progress. Repositories and demos will be linked here as they become available.
-
-## 🎯 Current Goals
-- Strengthen JavaScript fundamentals and build real projects
-- Learn frontend, backend, databases, and deployment
-- Grow into a professional full-stack developer
-
-## 📫 Connect
-- GitHub: [@AmarDevLab143](https://github.com/AmarDevLab143)
+## 📫 Connect With Me
+GitHub: https://github.com/AmarDevLab143
 
 ---
-*Learning, building, and improving one project at a time.*
+⭐ Building, Learning & Growing Every Day!
+
