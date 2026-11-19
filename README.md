@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Amar Malvia 👋
+# Hi, I'm Amar Malviya 👋
 
 ### WordPress Developer | Aspiring Full-Stack Developer
 
