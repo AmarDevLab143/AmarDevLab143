@@ -1,4 +1,4 @@
-Hi, I'm Amar Malvia 👋
+## Hi, I'm Amar Malvia 👋
 
 <!--
 **AmarDevLab143/AmarDevLab143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
